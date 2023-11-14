@@ -1,0 +1,15 @@
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/bin/Debug/net7.0/Barcode
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/bin/Debug/net7.0/Barcode.deps.json
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/bin/Debug/net7.0/Barcode.runtimeconfig.json
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/bin/Debug/net7.0/Barcode.dll
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/bin/Debug/net7.0/Barcode.pdb
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.csproj.AssemblyReference.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.AssemblyInfoInputs.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.AssemblyInfo.cs
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.csproj.CoreCompileInputs.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.dll
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/refint/Barcode.dll
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.pdb
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/Barcode.genruntimeconfig.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/Barcode/obj/Debug/net7.0/ref/Barcode.dll

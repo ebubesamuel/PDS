@@ -1,0 +1,15 @@
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/bin/Debug/net7.0/PDS_WRIT1_A
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/bin/Debug/net7.0/PDS_WRIT1_A.deps.json
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/bin/Debug/net7.0/PDS_WRIT1_A.runtimeconfig.json
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/bin/Debug/net7.0/PDS_WRIT1_A.dll
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/bin/Debug/net7.0/PDS_WRIT1_A.pdb
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/BubbleSort.csproj.AssemblyReference.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/BubbleSort.AssemblyInfo.cs
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/PDS_WRIT1_A.dll
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/refint/PDS_WRIT1_A.dll
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/PDS_WRIT1_A.pdb
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/BubbleSort.genruntimeconfig.cache
+/Users/chidiebubesamuel/Projects/PDS_WRIT1_A/PDS_WRIT1_A/obj/Debug/net7.0/ref/PDS_WRIT1_A.dll
